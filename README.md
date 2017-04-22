@@ -1,4 +1,4 @@
-# Open-Sublime-From-Git-Bash-Windows
+# Open Sublime From Git Bash (Windows)
 
 
 ## Steps
